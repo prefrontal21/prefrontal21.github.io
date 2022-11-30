@@ -7,5 +7,5 @@ I am currently a senior undergraduate student in IEEE pivot class, Shanghai Jiao
 <br><br>
 Currently I am a teaching assistant for Algorithm Design and Analysis in SJTU. Visit this <a href="https://jhc.sjtu.edu.cn/public/home/bstao/AI2615-2021-Fall/">page</a> for more detail.
 <br><br>
-Ask for my <a href=mailto:lin_bu@sjtu.edu.cn>CV</a>!<br>
+Ask <a href=mailto:lin_bu@sjtu.edu.cn><i class="fa fa-envelope"></i>my email</a> for CV!<br>
 <br>
