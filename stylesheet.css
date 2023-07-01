@@ -133,3 +133,13 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.autotable {
+  width:100%;
+  max-width:1200px;
+  border:0px;
+  border-spacing:0px;
+  border-collapse:separate;
+  margin-right:auto;
+  margin-left:auto;
+}
