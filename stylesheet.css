@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #1772d0;
+  color: #6b0b60;
   text-decoration: none;
 }
 
@@ -136,7 +136,7 @@ span.highlight {
 
 .autotable {
   width:100%;
-  max-width:1200px;
+  max-width:1100px;
   border:0px;
   border-spacing:0px;
   border-collapse:separate;
