@@ -1,0 +1,2 @@
+Problem 1: We have seen that a Nash Equilibrium is polynomail-time computable for zero-sum games with two agents, and the problem is PPAD-complete for general games even for two agents. 
+Prove that the problem of finding a Nash Equilibrium for a three-player zero-sum game is PPAD-complete.
