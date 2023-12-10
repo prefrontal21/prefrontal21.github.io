@@ -64,13 +64,13 @@
 }
 
 a {
-  color: #6b0b60;
+  color: #2b4bce;
   text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #8e2d2d;
   text-decoration: none;
 }
 
@@ -81,28 +81,28 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px
+  font-size: 15px
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 33px;
+  font-size: 25px;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 21px;
-  font-weight: 700
+  font-size: 16px;
+  font-weight: 550
 }
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 46px;
+  font-size: 40px;
 }
 
 .text-hidden {
